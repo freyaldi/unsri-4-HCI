@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-04-21T02:05:12.547Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 Edg/89.0.774.77" etag="0a5uG5y2x0ga3l8K_ze4" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-04T23:49:09.828Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.51" etag="WBIk-dkw9Aanr1MmuE-u" version="14.6.9" type="github">
   <diagram id="SUZnzl4SckW-bcVhUqCc" name="Page-1">
     <mxGraphModel dx="1108" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="jQeEjqspYtGjYIVRBWsh-80" value="HTA Aplikasi" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;" parent="1" vertex="1">
-          <mxGeometry x="200" y="20" width="1060" height="320" as="geometry" />
+          <mxGeometry x="10" y="20" width="1180" height="320" as="geometry" />
         </mxCell>
         <mxCell id="jQeEjqspYtGjYIVRBWsh-81" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="jQeEjqspYtGjYIVRBWsh-80" source="jQeEjqspYtGjYIVRBWsh-82" target="jQeEjqspYtGjYIVRBWsh-83" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -14,23 +14,7 @@
           <mxGeometry x="432.5" y="30" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jQeEjqspYtGjYIVRBWsh-83" value="1. Buka aplikasi" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="jQeEjqspYtGjYIVRBWsh-80" vertex="1">
-          <mxGeometry x="200" y="150" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="jQeEjqspYtGjYIVRBWsh-92" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="jQeEjqspYtGjYIVRBWsh-80" source="jQeEjqspYtGjYIVRBWsh-82" target="jQeEjqspYtGjYIVRBWsh-93" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="110" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jQeEjqspYtGjYIVRBWsh-93" value="2. Buat Akun" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="jQeEjqspYtGjYIVRBWsh-80" vertex="1">
-          <mxGeometry x="335" y="150" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="jQeEjqspYtGjYIVRBWsh-94" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="jQeEjqspYtGjYIVRBWsh-80" source="jQeEjqspYtGjYIVRBWsh-82" target="jQeEjqspYtGjYIVRBWsh-95" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="110" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jQeEjqspYtGjYIVRBWsh-95" value="3. Login" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="jQeEjqspYtGjYIVRBWsh-80" vertex="1">
-          <mxGeometry x="465" y="150" width="120" height="40" as="geometry" />
+          <mxGeometry x="280" y="150" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jQeEjqspYtGjYIVRBWsh-96" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="jQeEjqspYtGjYIVRBWsh-80" source="jQeEjqspYtGjYIVRBWsh-82" target="jQeEjqspYtGjYIVRBWsh-97" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -39,9 +23,6 @@
         </mxCell>
         <mxCell id="jQeEjqspYtGjYIVRBWsh-97" value="4. Cari Materi yang dibutuhkan" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="jQeEjqspYtGjYIVRBWsh-80" vertex="1">
           <mxGeometry x="595" y="150" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="jQeEjqspYtGjYIVRBWsh-98" style="edgeStyle=none;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="jQeEjqspYtGjYIVRBWsh-80" source="jQeEjqspYtGjYIVRBWsh-95" target="jQeEjqspYtGjYIVRBWsh-95" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jQeEjqspYtGjYIVRBWsh-99" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="jQeEjqspYtGjYIVRBWsh-80" source="jQeEjqspYtGjYIVRBWsh-97" target="jQeEjqspYtGjYIVRBWsh-100" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -64,8 +45,8 @@
             <mxPoint x="550" y="190" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jQeEjqspYtGjYIVRBWsh-105" value="4.4. Pilih Bahasa" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="jQeEjqspYtGjYIVRBWsh-80" vertex="1">
-          <mxGeometry x="670" y="260" width="120" height="40" as="geometry" />
+        <mxCell id="jQeEjqspYtGjYIVRBWsh-105" value="4.3. Pilih Bahasa" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="jQeEjqspYtGjYIVRBWsh-80" vertex="1">
+          <mxGeometry x="540" y="260" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jQeEjqspYtGjYIVRBWsh-106" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="jQeEjqspYtGjYIVRBWsh-80" source="jQeEjqspYtGjYIVRBWsh-97" target="jQeEjqspYtGjYIVRBWsh-107" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -92,8 +73,13 @@
         <mxCell id="jQeEjqspYtGjYIVRBWsh-117" value="Plan 4:&#xa;Lakukan 4.1-4.2-4.3-4.4-4.5-4.6&#xa;Jika langsung mengunduh lakukan 4.1-4.2-4.3-4.4-4.6" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jQeEjqspYtGjYIVRBWsh-80" vertex="1">
           <mxGeometry x="725" y="160" width="315" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CiAREKghz70hcUwwsdxt-1" value="4.3. Pilih Buku atau Slide Presentasi" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="jQeEjqspYtGjYIVRBWsh-80">
-          <mxGeometry x="540" y="260" width="120" height="40" as="geometry" />
+        <mxCell id="zdimqbwO4Jo69qTcSuSZ-10" value="4.4. Pilih Buku atau Slide Presentasi" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="jQeEjqspYtGjYIVRBWsh-80">
+          <mxGeometry x="670" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zdimqbwO4Jo69qTcSuSZ-9" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" target="zdimqbwO4Jo69qTcSuSZ-10" source="jQeEjqspYtGjYIVRBWsh-97" parent="jQeEjqspYtGjYIVRBWsh-80">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="502.5" y="90" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
